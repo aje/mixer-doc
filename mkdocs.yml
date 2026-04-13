@@ -1,0 +1,66 @@
+site_name: Mixer Documentation
+theme:
+  name: material
+  language: en
+  logo: material/shaker
+  favicon: assets/images/placeholder.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - i18n
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: zh
+          name: 简体中文
+          build: true
+          nav:
+            - 首页: index.md
+            - 主屏幕仪表板: home_screen.md
+            - 入门指南: initiation.md
+            - 食谱: recipes.md
+            - 清洗: cleaning.md
+            - 容器管理: pots_management.md
+nav:
+  - Home: index.md
+  - Home Screen Dashboard: home_screen.md
+  - Setup Guide: initiation.md
+  - Recipes: recipes.md
+  - Cleaning: cleaning.md
+  - Pots Management: pots_management.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
