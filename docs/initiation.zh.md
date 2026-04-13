@@ -19,6 +19,7 @@
 
 ![二维码扫描占位符](assets/images/cn/init/qrcode.png)
 ![scanned.png](assets/images/cn/init/scanned.png)
+
 *扫描机器背面或侧面的二维码。*
 
 - **Wi-Fi 连接**：确保您的机器连接到可靠的 Wi-Fi 网络。
@@ -31,6 +32,7 @@
 接下来，您将按照指引确保内置天平准确。
 
 ![天平校准占位符](assets/images/cn/init/scale-calib.png)
+
 *天平校准屏幕。*
 
 - **准确性检查**：此步骤确保天平能正确测量原料。
@@ -42,6 +44,7 @@
 此步骤确保机器分配每种原料的准确量。
 
 ![泵校准占位符](assets/images/cn/init/pots-calib.png)
+
 *测试每个泵的准确性。*
 
 - **分配精度**：测试每个泵以确保其输送正确数量的液体。
@@ -53,6 +56,7 @@
 完成泵校准后：
 
 ![仪表板占位符](assets/images/cn/init/home.png)
+
 *机器的主仪表板。*
 
 1. 您的机器被标记为“就绪”。

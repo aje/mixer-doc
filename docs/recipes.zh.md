@@ -10,7 +10,8 @@
 
 主屏幕显示所有可用配方。
 
-![配方列表占位符](assets/images/placeholder.png)
+![配方列表](assets/images/cn/recipes/Recipe List.png)
+
 *所有可用配方的列表。*
 
 - **类别**：使用顶部的选项卡按类别筛选配方。
@@ -21,7 +22,8 @@
 
 选择配方会显示更多信息和准备选项。
 
-![配方详情占位符](assets/images/placeholder.png)
+![配方详情](assets/images/cn/recipes/Recipe Details.png)
+
 *配方详情和版本选择界面。*
 
 ### 1. 版本选择
@@ -44,7 +46,8 @@
 
 在机器工作时，您可以在屏幕上看到实时进度。机器处理每种原料的精确测量。如果发生任何问题，例如泵故障或原料耗尽，应用将立即通知您。
 
-![分配进度占位符](assets/images/placeholder.png)
+![分配进度](assets/images/cn/recipes/Dispensing Progress.png)
+
 *机器正在分配时的实时进度。*
 
 ## 结果和完成
@@ -54,5 +57,6 @@
 - **重量精度**：显示实际分配量与目标重量的对比。
 - **自动记录**：机器会自动记录生产数据以供您参考。
 
-![分配结果占位符](assets/images/placeholder.png)
+![分配结果](assets/images/cn/recipes/Dispensing Result.png)
+
 *显示结果和重量精度的完成摘要。*
