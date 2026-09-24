@@ -23,6 +23,8 @@ theme:
     - content.code.copy
     - navigation.tabs
     - i18n
+extra_javascript:
+  - javascripts/checklist.js
 plugins:
   - search
   - i18n:
@@ -36,18 +38,36 @@ plugins:
           build: true
           nav:
             - 首页: index.md
-            - 主屏幕仪表板: home_screen.md
-            - 入门指南: initiation.md
-            - 食谱: recipes.md
-            - 清洗: cleaning.md
-            - 容器管理: pots_management.md
+            - 工厂工人:
+                - 入门指南: initiation.md
+                - 机器测试清单: machine_testing.md
+            - 经理:
+                - 管理员文档: manager.md
+            - 最终用户:
+                - 入门指南: getting_started.md
+                - 主屏幕仪表板: home_screen.md
+                - 绑定原料到容器: binding_ingredients.md
+                - 填充和初始化容器: filling_containers.md
+                - 温度控制: temperature_control.md
+                - 手动分配原料: manual_dispensing.md
+                - 分配饮品: dispensing_drink.md
+                - 清洗: cleaning_procedure.md
 nav:
   - Home: index.md
-  - Home Screen Dashboard: home_screen.md
-  - Setup Guide: initiation.md
-  - Recipes: recipes.md
-  - Cleaning: cleaning.md
-  - Pots Management: pots_management.md
+  - Factory Worker:
+      - Initiation Process: initiation.md
+      - Machine Testing Checklist: machine_testing.md
+  - Manager:
+      - Manager Documentation: manager.md
+  - End User:
+      - Getting Started: getting_started.md
+      - Home Screen Dashboard: home_screen.md
+      - Binding and Unbinding Ingredients: binding_ingredients.md
+      - Filling Containers: filling_containers.md
+      - Temperature Control: temperature_control.md
+      - Manual Ingredient Dispensing: manual_dispensing.md
+      - Dispensing a Recipe: dispensing_drink.md
+      - Cleaning: cleaning_procedure.md
 
 markdown_extensions:
   - admonition
@@ -64,3 +84,4 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist
