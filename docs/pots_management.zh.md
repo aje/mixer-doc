@@ -1,12 +1,13 @@
 # :material-cup-water: 容器管理 (Pots Management) 文档
 
-**容器管理 (Pots Management)** 功能允许您监控和管理存储在机器各个容器（Pots）中的原料。每个容器都分配有一个编号，并可以关联到特定的原料、加热以及手动分配。
+**容器管理 
+(Pots Management)** 功能允许您监控和管理存储在机器各个容器（Pots）中的原料。每个容器都分配有一个编号，并可以关联到特定的原料、加热以及手动分配。
 
 ---
 
 ## 📋 容器概览
 
-![容器屏幕](assets/images/placeholder.png)
+![容器屏幕](assets/images/cn/pots/pots-screen.png)
 **容器 (Pots)** 屏幕显示所有可用的容器。每个容器卡片显示：
 - **容器编号 (Pot Number)**：容器的唯一标识符。
 - **原料名称 (Ingredient Name)**：关联原料的名称（如果已分配）。
@@ -21,7 +22,8 @@
 要使用容器，必须将其与系统材料列表中的某种原料“绑定”。
 
 ### 绑定容器
-![绑定原料](assets/images/placeholder.png)
+![绑定原料](assets/images/cn/pots/Binding Material.png)
+
 1. 点击一个空容器（或未分配原料的容器）。
 2. 将出现可用材料/原料列表。
 3. 选择您希望链接到此容器的原料。
@@ -35,8 +37,10 @@
 ---
 
 ## 🌡️ 温度控制
+![Temperature Control-cold.png](assets/images/cn/pots/Temperature%20Control-cold.png)
 
-![温度控制](assets/images/placeholder.png)
+![温度控制](assets/images/cn/pots/Temperature Control-warming.png)
+
 如果容器配备了加热器，您可以控制其温度。
 
 1. 点击容器卡片上的 **温度图标**（或通过容器菜单访问）。
@@ -48,6 +52,7 @@
 ---
 
 ## 💧 填充与清空容器
+![Refilling.png](assets/images/cn/pots/Refilling.png)
 
 跟踪原料液位以确保机器可以完成配方。
 
@@ -63,6 +68,7 @@
 ---
 
 ## ⚖️ 校准与维护
+![Calibration.png](assets/images/cn/pots/Calibration.png)
 
 准确的分配取决于正确的校准。
 
@@ -74,7 +80,12 @@
 
 ## 🧪 手动分配
 
-![手动分配](assets/images/placeholder.png)
+![手动分配](assets/images/cn/pots/Manual Dispense.png)
+
+![Manual Dispense-progress.png](assets/images/en/pots/Manual%20Dispense-progress.png)
+
+![Manual Dispense-done.png](assets/images/en/pots/Manual%20Dispense-done.png)
+
 您可以手动分配特定量的原料用于测试或自定义用途。
 
 1. 点击已绑定容器卡片的主体部分，打开 **容器详情 (Pot Details)** 屏幕。
