@@ -2,7 +2,7 @@ name: Deploy MkDocs site
 on:
   push:
     branches:
-      - main   # change to your default branch if different
+      - master   # change to your default branch if different
 permissions:
   contents: write
 jobs:
