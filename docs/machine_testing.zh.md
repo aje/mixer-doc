@@ -17,8 +17,8 @@
   ![屏幕测试占位符](assets/images/placeholder.png)
 - [ ] 测试网络连接。
   ![网络测试占位符](assets/images/placeholder.png)
-- [ ] 测试天平，并确认重量读数正确。
-  ![天平测试占位符](assets/images/placeholder.png)
+- [ ] 测试秤，并确认重量读数正确。
+  ![秤测试占位符](assets/images/placeholder.png)
 - [ ] 测试扫描仪。
   ![扫描仪测试占位符](assets/images/placeholder.png)
 - [ ] 测试声音。
@@ -30,9 +30,9 @@
 
 ## 配方和准确性
 
-- [ ] 分配多个配方，并确认每个配方都成功完成。
+- [ ] 出料多个配方，并确认每个配方都成功完成。
   ![多个配方测试占位符](assets/images/placeholder.png)
-- [ ] 将每个配方的分配量与所需规格进行比较，并确认准确性。
+- [ ] 将每个配方的出料量与所需规格进行比较，并确认准确性。
   ![配方准确性测试占位符](assets/images/placeholder.png)
 
 ## 补充原料

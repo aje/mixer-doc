@@ -2,6 +2,11 @@
 
 Follow these steps to prepare the pots and dispense a recipe.
 
+## Before You Begin
+
+1. Make sure the machine is connected to the network and the empty scale shows `0`.
+   ![Check Network and Empty Scale Placeholder](assets/images/placeholder.png)
+
 ## Bind an Ingredient
 
 1. Open the **Pots** screen.
@@ -26,7 +31,7 @@ Follow these steps to prepare the pots and dispense a recipe.
 5. Wait for the brief initialization to finish, if it starts.
    ![Initialization Placeholder](assets/images/placeholder.png)
 
-## Dispense a Recipe
+## Dispensing by Recipe
 
 1. Open **Recipes**.
    ![Open Recipes Placeholder](assets/images/placeholder.png)

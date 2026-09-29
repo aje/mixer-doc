@@ -1,31 +1,29 @@
-# :material-glass-cocktail: 分配饮品
+# :material-glass-cocktail: 出料饮品
 
 ## 使用二维码
 
-1. 将杯子放在分配器下方。
-   ![放置杯子占位符](assets/images/placeholder.png)
-2. 扫描包含配方及其规格的二维码。
-   ![扫描二维码占位符](assets/images/placeholder.png)
-3. 等待分配流程自动完成。
-   ![自动分配占位符](assets/images/placeholder.png)
+1. 将杯子放在出料口下方。 
+2. 扫描包含配方及其规格的二维码。 
+3. 等待出料流程自动完成。
+   ![Dispensing Progress Placeholder](assets/images/cn/recipe/dispense-loading.png)
 4. 查看完成摘要。
-   ![完成摘要占位符](assets/images/placeholder.png)
+   ![Check the completion summary](assets/images/cn/recipe/confirm.png)
 
 ## 使用配方页面
 
 1. 打开**配方**。
-   ![打开配方占位符](assets/images/placeholder.png)
+   ![Open Recipes Placeholder](assets/images/cn/recipe/recipes.png)
 2. 选择配方。
    ![选择配方占位符](assets/images/placeholder.png)
 3. 选择所需规格。
-   ![选择规格占位符](assets/images/placeholder.png)
-4. 检查原料是否可用，以及分配器是否已校准。
-   ![检查可用性占位符](assets/images/placeholder.png)
-5. 将杯子放在分配器下方。
+   ![Select Specifications Placeholder](assets/images/cn/recipe/recipes-details.png)
+4. 将杯子放在出料口下方。
    ![放置杯子占位符](assets/images/placeholder.png)
-6. 点击**分配**。
-   ![分配占位符](assets/images/placeholder.png)
-7. 等待分配流程完成。
-   ![分配进度占位符](assets/images/placeholder.png)
-8. 查看完成摘要。
-   ![完成摘要占位符](assets/images/placeholder.png)
+5. 点击**出料**。
+
+      ![Dispense Placeholder](assets/images/cn/recipe/tap-dispense.png)
+
+6. 等待出料流程完成。
+   ![Dispensing Progress Placeholder](assets/images/cn/recipe/dispense-loading.png)
+7. 查看完成摘要。
+   ![Check the completion summary](assets/images/cn/recipe/confirm.png)

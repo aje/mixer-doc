@@ -49,8 +49,8 @@ plugins:
                 - 绑定原料到容器: binding_ingredients.md
                 - 填充和初始化容器: filling_containers.md
                 - 温度控制: temperature_control.md
-                - 手动分配原料: manual_dispensing.md
-                - 分配饮品: dispensing_drink.md
+                - 手动出料原料: manual_dispensing.md
+                - 出料: dispensing_drink.md
                 - 清洗: cleaning_procedure.md
 nav:
   - Home: index.md
@@ -66,7 +66,7 @@ nav:
       - Filling Containers: filling_containers.md
       - Temperature Control: temperature_control.md
       - Manual Ingredient Dispensing: manual_dispensing.md
-      - Dispensing a Recipe: dispensing_drink.md
+      - Dispensing by Recipe: dispensing_drink.md
       - Cleaning: cleaning_procedure.md
 
 markdown_extensions:
