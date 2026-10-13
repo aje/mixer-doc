@@ -42,7 +42,18 @@ plugins:
                 - 入门指南: initiation.md
                 - 机器测试清单: machine_testing.md
             - 经理:
-                - 管理员文档: manager.md
+                - 概览: manager/manager.md
+                - 商店: manager/stores.md
+                - 机器: manager/machines.md
+                - 配方: manager/recipes.md
+                - 配方组合: manager/recipe_combinations.md
+                - 配方定制: manager/recipe_customization.md
+                - 配方原料: manager/recipe_ingredients.md
+                - 定制项: manager/customizations.md
+                - 原料: manager/ingredients.md
+                - 用户: manager/users.md
+                - 生产记录: manager/production_records.md
+                - 统计: manager/statistics.md
             - 最终用户:
                 - 入门指南: getting_started.md
                 - 主屏幕仪表板: home_screen.md
@@ -58,7 +69,18 @@ nav:
       - Initiation Process: initiation.md
       - Machine Testing Checklist: machine_testing.md
   - Manager:
-      - Manager Documentation: manager.md
+      - Overview: manager/manager.md
+      - Stores: manager/stores.md
+      - Machines: manager/machines.md
+      - Recipes: manager/recipes.md
+      - Recipe Combinations: manager/recipe_combinations.md
+      - Recipe Customization: manager/recipe_customization.md
+      - Recipe Ingredients: manager/recipe_ingredients.md
+      - Customizations: manager/customizations.md
+      - Ingredients: manager/ingredients.md
+      - Users: manager/users.md
+      - Production Records: manager/production_records.md
+      - Statistics: manager/statistics.md
   - End User:
       - Getting Started: getting_started.md
       - Home Screen Dashboard: home_screen.md
@@ -70,6 +92,7 @@ nav:
       - Cleaning: cleaning_procedure.md
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.emoji:
