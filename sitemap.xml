@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+    </url>
+    <url>
+        <loc>Nonehome_screen/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonehome_screen/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/home_screen/"/>
+    </url>
+    <url>
+        <loc>Noneinitiation/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneinitiation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/initiation/"/>
+    </url>
+    <url>
+        <loc>Nonemachine_testing/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemachine_testing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/machine_testing/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/customizations/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/customizations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/customizations/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/ingredients/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/ingredients/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/ingredients/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/machines/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/machines/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/machines/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/manager/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/manager/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/manager/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/production_records/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/production_records/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/production_records/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/recipe_combinations/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipe_combinations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipe_combinations/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/recipe_customization/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipe_customization/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipe_customization/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/recipe_ingredients/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipe_ingredients/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipe_ingredients/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/recipes/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipes/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/statistics/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/statistics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/statistics/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/stores/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/stores/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/stores/"/>
+    </url>
+    <url>
+        <loc>Nonemanager/users/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/users/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/users/"/>
+    </url>
+    <url>
+        <loc>Noneuser/binding_ingredients/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/binding_ingredients/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/binding_ingredients/"/>
+    </url>
+    <url>
+        <loc>Noneuser/cleaning/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/cleaning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/cleaning/"/>
+    </url>
+    <url>
+        <loc>Noneuser/cleaning_procedure/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/cleaning_procedure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/cleaning_procedure/"/>
+    </url>
+    <url>
+        <loc>Noneuser/dispensing_drink/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/dispensing_drink/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/dispensing_drink/"/>
+    </url>
+    <url>
+        <loc>Noneuser/filling_containers/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/filling_containers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/filling_containers/"/>
+    </url>
+    <url>
+        <loc>Noneuser/getting_started/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/getting_started/"/>
+    </url>
+    <url>
+        <loc>Noneuser/manual_dispensing/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/manual_dispensing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/manual_dispensing/"/>
+    </url>
+    <url>
+        <loc>Noneuser/pots_management/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/pots_management/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/pots_management/"/>
+    </url>
+    <url>
+        <loc>Noneuser/recipes/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/recipes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/recipes/"/>
+    </url>
+    <url>
+        <loc>Noneuser/temperature_control/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/temperature_control/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/temperature_control/"/>
+    </url>
+    <url>
+        <loc>Nonezh/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonezh/home_screen/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/home_screen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonehome_screen/"/>
+    </url>
+    <url>
+        <loc>Nonezh/initiation/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/initiation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneinitiation/"/>
+    </url>
+    <url>
+        <loc>Nonezh/machine_testing/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/machine_testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemachine_testing/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/customizations/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/customizations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/customizations/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/ingredients/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/ingredients/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/ingredients/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/machines/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/machines/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/machines/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/manager/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/manager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/manager/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/production_records/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/production_records/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/production_records/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/recipe_combinations/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipe_combinations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipe_combinations/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/recipe_customization/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipe_customization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipe_customization/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/recipe_ingredients/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipe_ingredients/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipe_ingredients/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/recipes/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/recipes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/recipes/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/statistics/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/statistics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/statistics/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/stores/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/stores/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/stores/"/>
+    </url>
+    <url>
+        <loc>Nonezh/manager/users/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/manager/users/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemanager/users/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/binding_ingredients/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/binding_ingredients/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/binding_ingredients/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/cleaning/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/cleaning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/cleaning/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/cleaning_procedure/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/cleaning_procedure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/cleaning_procedure/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/dispensing_drink/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/dispensing_drink/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/dispensing_drink/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/filling_containers/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/filling_containers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/filling_containers/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/getting_started/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/getting_started/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/manual_dispensing/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/manual_dispensing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/manual_dispensing/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/pots_management/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/pots_management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/pots_management/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/recipes/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/recipes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/recipes/"/>
+    </url>
+    <url>
+        <loc>Nonezh/user/temperature_control/</loc>
+        <lastmod>2026-10-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/user/temperature_control/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneuser/temperature_control/"/>
+    </url>
+</urlset>
