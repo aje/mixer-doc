@@ -55,14 +55,14 @@ plugins:
                 - 生产记录: manager/production_records.md
                 - 统计: manager/statistics.md
             - 最终用户:
-                - 入门指南: getting_started.md
+                - 入门指南: user/getting_started.md
                 - 主屏幕仪表板: home_screen.md
-                - 绑定原料到容器: binding_ingredients.md
-                - 填充和初始化容器: filling_containers.md
-                - 温度控制: temperature_control.md
-                - 手动出料原料: manual_dispensing.md
-                - 出料: dispensing_drink.md
-                - 清洗: cleaning_procedure.md
+                - 绑定原料到容器: user/binding_ingredients.md
+                - 填充和初始化容器: user/filling_containers.md
+                - 温度控制: user/temperature_control.md
+                - 手动出料原料: user/manual_dispensing.md
+                - 出料: user/dispensing_drink.md
+                - 清洗: user/cleaning_procedure.md
 nav:
   - Home: index.md
   - Factory Worker:
@@ -82,14 +82,14 @@ nav:
       - Production Records: manager/production_records.md
       - Statistics: manager/statistics.md
   - End User:
-      - Getting Started: getting_started.md
+      - Getting Started: user/getting_started.md
       - Home Screen Dashboard: home_screen.md
-      - Binding and Unbinding Ingredients: binding_ingredients.md
-      - Filling Containers: filling_containers.md
-      - Temperature Control: temperature_control.md
-      - Manual Ingredient Dispensing: manual_dispensing.md
-      - Dispensing by Recipe: dispensing_drink.md
-      - Cleaning: cleaning_procedure.md
+      - Binding and Unbinding Ingredients: user/binding_ingredients.md
+      - Filling Containers: user/filling_containers.md
+      - Temperature Control: user/temperature_control.md
+      - Manual Ingredient Dispensing: user/manual_dispensing.md
+      - Dispensing by Recipe: user/dispensing_drink.md
+      - Cleaning: user/cleaning_procedure.md
 
 markdown_extensions:
   - attr_list
